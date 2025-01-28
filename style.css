@@ -66,3 +66,7 @@ button:hover {
     background-color: #ff3333;
     color: #ffe6e6;
 }
+
+#response {
+    display: none;
+}
