@@ -41,10 +41,12 @@ p {
     border-radius: 50px;
     position: absolute;
 }
+
 .heart:before {
     top: -50px;
     left: 0;
 }
+
 .heart:after {
     left: 50px;
     top: 0;
